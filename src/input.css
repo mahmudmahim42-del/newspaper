@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@utility container{
+margin: 0 auto;
+max-width: 1200px;
+}
+
+@theme {
+  --color-primary: #5F5E5E;
+  --color-secondary: #960009;
+  --color-black: #000000;
+  --font-sans:"Source Sans 3", sans-serif;
+  --font-playfire:"Playfair", serif;
+}
+
+
+
+
